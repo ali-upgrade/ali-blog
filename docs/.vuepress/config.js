@@ -84,17 +84,10 @@ module.exports = {
         children: [
           {title: "TCP三次握手", path: "/Browser/TCP三次握手"},
           {title: "强制缓存与协商缓存", path: "/Browser/强制缓存与协商缓存"},
-          {title: "进程与线程", path: "/Browser/进程与线程"}
-        ]
-      },
-      {
-        title: "帅吉吉",
-        path: "/帅吉吉/day1",
-        // collapsable: false,
-        children: [
-          {title: "DAY1", path: "/帅吉吉/day1"},
-          {title: "DAY2", path: "/帅吉吉/day2"},
-          {title: "DAY3", path: "/帅吉吉/day3"},
+          {title: "进程与线程", path: "/Browser/进程与线程"},
+          {title: "从输入URL到页面展示", path: "/Browser/从输入URL到页面展示"},
+          {title: "跨域", path: "/Browser/跨域"}
+
         ]
       },
     ]
