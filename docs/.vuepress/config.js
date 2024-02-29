@@ -86,7 +86,8 @@ module.exports = {
           { title: "强制缓存与协商缓存", path: "/Browser/强制缓存与协商缓存" },
           { title: "进程与线程", path: "/Browser/进程与线程" },
           { title: "从输入URL到页面展示", path: "/Browser/从输入URL到页面展示" },
-          { title: "跨域", path: "/Browser/跨域" }
+          { title: "跨域", path: "/Browser/跨域" },
+          { title: "垃圾回收机制", path: "/Browser/垃圾回收机制" }
 
         ]
       },
