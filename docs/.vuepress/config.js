@@ -9,7 +9,7 @@ module.exports = {
   themeConfig: {
     noFoundPageByTencent: false,
     logo: '/hero.png',
-    subSidebar: 'auto', 
+    subSidebar: 'auto',
     nav: [
       { text: "掘金", link: "https://juejin.cn/user/2203854248880109" },
       { text: "Github", link: "https://github.com/aliaqianduan" },
@@ -37,11 +37,11 @@ module.exports = {
         path: "/html/行内元素和块级元素",
         // collapsable: false,
         children: [
-          { title: "行内元素和块级元素", path: "/html/行内元素和块级元素"},
-          { title: "localStorage与sessionStorage", path: "/html/localStorage与sessionStorage"},
-          { title: "DOCTYPE", path: "/html/DOCTYPE"},
-          { title: "BFC,IFC,GFC,FFC", path: "/html/BFCIFC与GFCFFC"},
-          { title: "link与@import", path: "/html/link与@import"}
+          { title: "行内元素和块级元素", path: "/html/行内元素和块级元素" },
+          { title: "localStorage与sessionStorage", path: "/html/localStorage与sessionStorage" },
+          { title: "DOCTYPE", path: "/html/DOCTYPE" },
+          { title: "BFC,IFC,GFC,FFC", path: "/html/BFCIFC与GFCFFC" },
+          { title: "link与@import", path: "/html/link与@import" }
         ]
       },
       {
@@ -64,12 +64,12 @@ module.exports = {
         path: "/vue/$nextTick",
         // collapsable: false,
         children: [
-          {title: "$nextTick", path: "/vue/$nextTick"},
-          {title: "组件间通讯方式", path: "/vue/组件间通讯方式"},
-          {title: "keep-alive", path: "/vue/keep-alive"},
-          {title: "VueRouter导航守卫", path: "/vue/VueRouter导航守卫"},
-          {title: "v-model数据绑定分析", path: "/vue/v-model数据绑定分析"},
-          {title: "vue为何采用异步渲染", path: "/vue/vue为何采用异步渲染"},
+          { title: "$nextTick", path: "/vue/$nextTick" },
+          { title: "组件间通讯方式", path: "/vue/组件间通讯方式" },
+          { title: "keep-alive", path: "/vue/keep-alive" },
+          { title: "VueRouter导航守卫", path: "/vue/VueRouter导航守卫" },
+          { title: "v-model数据绑定分析", path: "/vue/v-model数据绑定分析" },
+          { title: "vue为何采用异步渲染", path: "/vue/vue为何采用异步渲染" },
         ]
       },
       {
@@ -77,7 +77,7 @@ module.exports = {
         path: "/webpack/编写loader",
         // collapsable: false,
         children: [
-          {title: "编写loader", path: "/webpack/编写loader"}
+          { title: "编写loader", path: "/webpack/编写loader" }
         ]
       },
       {
@@ -85,12 +85,23 @@ module.exports = {
         path: "/Browser/TCP三次握手",
         // collapsable: false,
         children: [
-          {title: "TCP三次握手", path: "/Browser/TCP三次握手"},
-          {title: "强制缓存与协商缓存", path: "/Browser/强制缓存与协商缓存"},
-          {title: "进程与线程", path: "/Browser/进程与线程"},
-          {title: "从输入URL到页面展示", path: "/Browser/从输入URL到页面展示"},
-          {title: "跨域", path: "/Browser/跨域"}
+          { title: "TCP三次握手", path: "/Browser/TCP三次握手" },
+          { title: "强制缓存与协商缓存", path: "/Browser/强制缓存与协商缓存" },
+          { title: "进程与线程", path: "/Browser/进程与线程" },
+          { title: "从输入URL到页面展示", path: "/Browser/从输入URL到页面展示" },
+          { title: "跨域", path: "/Browser/跨域" },
+          { title: "垃圾回收机制", path: "/Browser/垃圾回收机制" }
 
+        ]
+      },
+      {
+        title: "业务思考",
+        path: "/Business/如何划分技术组件和业务组件",
+        // collapsable: false,
+        children: [
+          { title: "如何划分技术组件和业务组件", path: "/Business/如何划分技术组件和业务组件" },
+          { title: "登录态的保持", path: "/Business/登录态的保持" },
+          { title: "2023913面试", path: "/Business/2023913面试" },
         ]
       },
     ]
