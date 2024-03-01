@@ -50,12 +50,12 @@ module.exports = {
         path: "/React/受控组件与非受控组件",
         // collapsable: false,
         children: [
-          {title: "受控组件与非受控组件", path: "/React/受控组件与非受控组件"},
-          {title: "Context与Reducer", path: "/React/Context与Reducer"},
-          {title: "React高阶组件", path: "/React/React高阶组件"},
-          {title: "类组件的生命周期", path: "/React/类组件生命周期"},
-          {title: "useMemo与useCallback", path: "/React/useMemo与useCallback"},
-          {title: "useEffect的使用", path: "/React/useEffect的使用"},
+          { title: "受控组件与非受控组件", path: "/React/受控组件与非受控组件" },
+          { title: "Context与Reducer", path: "/React/Context与Reducer" },
+          { title: "React高阶组件", path: "/React/React高阶组件" },
+          { title: "类组件的生命周期", path: "/React/类组件生命周期" },
+          { title: "useMemo与useCallback", path: "/React/useMemo与useCallback" },
+          { title: "useEffect的使用", path: "/React/useEffect的使用" },
         ]
       },
       {
@@ -70,6 +70,7 @@ module.exports = {
           { title: "VueRouter导航守卫", path: "/vue/VueRouter导航守卫" },
           { title: "v-model数据绑定分析", path: "/vue/v-model数据绑定分析" },
           { title: "vue为何采用异步渲染", path: "/vue/vue为何采用异步渲染" },
+          { title: "响应式原理", path: "/vue/响应式原理" },
         ]
       },
       {
