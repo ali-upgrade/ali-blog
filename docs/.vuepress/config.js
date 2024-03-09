@@ -93,6 +93,8 @@ module.exports = {
           { title: "跨域", path: "/Browser/跨域" },
           { title: "垃圾回收机制", path: "/Browser/垃圾回收机制" },
           { title: "性能优化指标", path: "/Browser/性能优化指标" },
+          { title: "websocket", path: "/Browser/websocket" },
+          { title: "http2.0", path: "/Browser/http2.0" },
         ]
       },
       {
@@ -103,6 +105,7 @@ module.exports = {
           { title: "如何划分技术组件和业务组件", path: "/Business/如何划分技术组件和业务组件" },
           { title: "登录态的保持", path: "/Business/登录态的保持" },
           { title: "2023913面试", path: "/Business/2023913面试" },
+          { title: "GitFlow工作流", path: "/Business/GitFlow工作流" },
         ]
       },
     ]
