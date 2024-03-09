@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Ali-blog',
+  title: 'have-advanced',
   theme: 'reco',
-  description: '前端',
+  description: '过去无法挽回，未来可以改变',
   base: '/have-advanced/',
   head: [
     ['link', { rel: 'icon', href: '/avatar.png' }]
@@ -16,7 +16,7 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: "Ali的进击之路",
+        title: "诸事顺遂",
         path: '/',
       },
       {
