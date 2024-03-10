@@ -41,7 +41,8 @@ module.exports = {
           { title: "localStorage与sessionStorage", path: "/html/localStorage与sessionStorage" },
           { title: "DOCTYPE", path: "/html/DOCTYPE" },
           { title: "BFC,IFC,GFC,FFC", path: "/html/BFCIFC与GFCFFC" },
-          { title: "link与@import", path: "/html/link与@import" }
+          { title: "link与@import", path: "/html/link与@import" },
+          { title: "获取元素位置", path: "/html/获取元素位置" }
         ]
       },
       {
