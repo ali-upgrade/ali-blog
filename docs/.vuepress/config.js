@@ -97,7 +97,7 @@ module.exports = {
           { title: "websocket", path: "/Browser/websocket" },
           { title: "http2.0", path: "/Browser/http2.0" },
           { title: "Http和Https的区别", path: "/Browser/Http和Https的区别" },
-          { title: "TCP(传输控制协议)和UDP(用户数据报协议)的区别", path: "/Browser/TCP(传输控制协议)和UDP(用户数据报协议)的区别" }
+          { title: "TCP传输控制协议和UDP用户数据报协议的区别", path: "/Browser/TCP传输控制协议和UDP用户数据报协议的区别" }
         ]
       },
       {
