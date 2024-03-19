@@ -12,7 +12,7 @@ module.exports = {
     subSidebar: 'auto',
     nav: [
       { text: "掘金", link: "https://juejin.cn/user/2203854248880109" },
-      { text: "Github", link: "https://github.com/aliaqianduan" },
+      { text: "Github", link: "https://github.com/ali-upgrade" },
     ],
     sidebar: [
       {
@@ -93,6 +93,8 @@ module.exports = {
           { title: "跨域", path: "/Browser/跨域" },
           { title: "垃圾回收机制", path: "/Browser/垃圾回收机制" },
           { title: "性能优化指标", path: "/Browser/性能优化指标" },
+          { title: "Http和Https的区别", path: "/Browser/Http和Https的区别" },
+          { title: "TCP(传输控制协议)和UDP(用户数据报协议)的区别", path: "/Browser/TCP(传输控制协议)和UDP(用户数据报协议)的区别" }
         ]
       },
       {
