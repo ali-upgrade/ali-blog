@@ -12,7 +12,7 @@ module.exports = {
     subSidebar: 'auto',
     nav: [
       { text: "掘金", link: "https://juejin.cn/user/2203854248880109" },
-      { text: "Github", link: "https://github.com/aliaqianduan" },
+      { text: "Github", link: "https://github.com/ali-upgrade" },
     ],
     sidebar: [
       {
@@ -96,6 +96,8 @@ module.exports = {
           { title: "性能优化指标", path: "/Browser/性能优化指标" },
           { title: "websocket", path: "/Browser/websocket" },
           { title: "http2.0", path: "/Browser/http2.0" },
+          { title: "Http和Https的区别", path: "/Browser/Http和Https的区别" },
+          { title: "TCP传输控制协议和UDP用户数据报协议的区别", path: "/Browser/TCP传输控制协议和UDP用户数据报协议的区别" }
         ]
       },
       {
