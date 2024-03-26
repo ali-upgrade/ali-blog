@@ -28,7 +28,8 @@ module.exports = {
           { title: "valueOf与toString", path: "/javascript/valueOf与toString" },
           { title: "作用域与作用域链", path: "/javascript/作用域与作用域链" },
           { title: "手写", path: "/javascript/手写" },
-          { title: "事件委托", path: "/javascript/事件委托" }
+          { title: "事件委托", path: "/javascript/事件委托" }, 
+          { title: "数组转树与数转数组", path: "/javascript/数组转树与数转数组" }
         ],
       },
       {
