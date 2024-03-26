@@ -109,6 +109,7 @@ module.exports = {
           { title: "登录态的保持", path: "/Business/登录态的保持" },
           { title: "2023913面试", path: "/Business/2023913面试" },
           { title: "GitFlow工作流", path: "/Business/GitFlow工作流" },
+          { title: "前端换肤方案", path: "/Business/前端换肤方案.md" },
         ]
       },
     ]
