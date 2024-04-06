@@ -29,7 +29,8 @@ module.exports = {
           { title: "作用域与作用域链", path: "/javascript/作用域与作用域链" },
           { title: "手写", path: "/javascript/手写" },
           { title: "事件委托", path: "/javascript/事件委托" }, 
-          { title: "数组转树与数转数组", path: "/javascript/数组转树与数转数组" }
+          { title: "数组转树与数转数组", path: "/javascript/数组转树与数转数组" },
+          { title: "事件循环", path: "/javascript/事件循环" }
         ],
       },
       {
